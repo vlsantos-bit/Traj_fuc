@@ -1,1 +1,7 @@
 # Traj_fuc
+
+Repositório destinado a pesquisa universitária, posterior públicação do script após finalizado.
+
+Resultado preliminares. 
+
+![image](https://github.com/vlsantos-bit/Traj_fuc/blob/master/traj.png)
